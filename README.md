@@ -1,11 +1,12 @@
-🔍 Search Engine using LangChain Tools & Agents
+**🔍 Search Engine using LangChain Tools & Agents**
 
 A Search Engine powered by LangChain tools and agents that retrieves information from a real dataset and generates context-aware, hallucination-minimized answers using a Retrieval-Augmented Generation (RAG) approach.
 
 This project demonstrates how LLM agents dynamically invoke tools to perform search and reasoning, making it a practical example of agentic GenAI applications.
 
+_________________________________________________________
 
-🚀 Features
+**🚀 Features**
 
 🔎 Tool-based search using LangChain Agents
 
@@ -17,7 +18,9 @@ This project demonstrates how LLM agents dynamically invoke tools to perform sea
 
 🖥️ Interactive UI built with Streamlit
 
-🛠️ Tech Stack
+_________________________________________________________
+
+**🛠️ Tech Stack**
 
 LangChain – Tools, Agents, and RAG pipeline
 
@@ -28,8 +31,10 @@ Vector Store – For semantic search and retrieval
 Streamlit – Frontend UI
 
 Python – Core programming language
+__________________________________________________________
 
-🧠 Architecture Overview
+**🧠 Architecture Overview**
+
 User Query
    ↓
 LangChain Agent
